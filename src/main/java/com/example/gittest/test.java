@@ -17,6 +17,7 @@ public class test {
         System.out.println("helloGit hothot");
         System.out.println("helloGit hothot");
         System.out.println("push hothot");
+        System.out.println("pull hothot")
 
 
     }
